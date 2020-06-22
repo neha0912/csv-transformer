@@ -1,0 +1,4 @@
+ID,VIN,Mileage,Stock Number,Make,Model Name,Model Year,Sale Price,Postal Code
+1,123abc,0,C123,Ford,Fiesta,2020,30000,94111
+2,123abd,0,C124,Ford,F-150,2020,50000,94111
+3,123abf,22000,C125,Ford,Taurus,2018,15000,94111

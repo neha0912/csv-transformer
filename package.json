@@ -1,0 +1,21 @@
+{
+  "name": "csv-transformer",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.6.x"
+  },
+  "dependencies": {
+    "express": "~4.13.4",
+    "fast-csv": "^4.3.0",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "nodeunit": "0.7.4",
+    "supertest": "0.4.0",
+    "mocha": "1.6.0"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha",
+    "start": "app.js"
+  }
+}
